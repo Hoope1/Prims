@@ -1,0 +1,2 @@
+# Prims
+Formel Suche Primzahlen
